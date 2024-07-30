@@ -9,6 +9,26 @@
   border-radius: 12px;
   margin: 20px auto;
 }
+#user-info{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+#user-info img{
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    padding-left: 8px;
+    padding-top: 5px;
+}
+#user-name h3{
+    margin: 0px;
+
+}
+#user-name p{
+    margin: 0px;
+}
+
 #item-photo img {
   width: 350px;
   height: 250px;
